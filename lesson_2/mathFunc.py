@@ -1,6 +1,6 @@
 # example function
 
-def addVar(:value1: float, value2: float, want: str): -> var: float
+def addVar(value1: float, value2: float, want: str): -> var: float
     
     if want = "add"
 

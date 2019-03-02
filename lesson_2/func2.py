@@ -5,5 +5,5 @@ my_number = 100
 aFunc_1(my_number)
 
 # pass a value to a funcation in another file
-language = 'Python' # 'Python' 'C++' 'JAVA'
+language = "Python"  # 'Python' 'C++' 'JAVA'
 anIf(language)
