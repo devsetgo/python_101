@@ -35,7 +35,7 @@ def save_all_json(data):
     return "done"
 
 
-def call_api():
+def call_api(url):
     r = requests.get(url)
     # print(r.status_code)
     data = r.json()
@@ -49,4 +49,4 @@ url = "https://api.github.com/users/octokit/repos"
 
 
 if __name__ == "__main__":
-    call_api()
+    call_api(url)
