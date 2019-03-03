@@ -21,4 +21,5 @@ def open_sample():
     return count
 
 if __name__ == "__main__":
-    open_sample()
+    restult = open_sample()
+    print(f'there are {restult} rows')

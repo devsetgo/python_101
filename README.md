@@ -1,10 +1,12 @@
 # Python 101
 
 ## Install
-- Python
-- VS Code
-    - install python plugin
-    - set autosave
+- Python - [download](https://www.python.org/downloads/)
+- VS Code - [download](https://code.visualstudio.com/)
+    - install [python plugin](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+    - go to settings and set autosave
+    - set the CMD prompt for windows users (unless you want to use powershell)
+        - see setup_environment folder for JSON settngs
 
 
 ### Learning Resources
@@ -25,12 +27,9 @@
     - Pytest
         - pytest
 ## TODO LIST
-- [ ] Add tests
-    - [x] lesson 1 (not testable)
-    - [x] lesson 2 (limited due to code)
-    - [ ] lesson 3 (limited due to code)
-    - [ ] lesson 4
-
+- [ ] Write Test Example
+- [ ] Write Flask Example
+- [ ] Write Flask RESTPlus expample
 
 ## Basic Python
 ### Week 1
