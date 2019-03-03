@@ -22,6 +22,14 @@
         - [Modern Python Standard Library Cookbook](https://amzn.to/2UhFYC6)
         - [Python 3 Object-Oriented Programming](https://amzn.to/2Tb4yZ0)
         - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+    - Pytest
+        - pytest
+## TODO LIST
+- [ ] Add tests
+    - [x] lesson 1 (not testable)
+    - [x] lesson 2 (limited due to code)
+    - [ ] lesson 3 (limited due to code)
+    - [ ] lesson 4
 
 
 ## Basic Python
