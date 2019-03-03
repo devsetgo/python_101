@@ -37,10 +37,10 @@ def mathFunction(value1: float, value2: float, want: str):
 
 
 # lets run through a function that is a bit more objected oriented
-math_types = ["add", "sub", "mult", "div", 'remainder']
+math_types = ["add", "sub", "mult", "div", "remainder"]
 for item in math_types:
-    value_1 = 10000 # set value as float or integer
-    value_2 = 0 # set value as float or integer and try a 0 here to see error handling
-    w = item # math_type item in list
-    my_answer = mathFunction(value_1, value_2, w) # call function with variables
-    print(my_answer) # return value of result in function
+    value_1 = 10000  # set value as float or integer
+    value_2 = 0  # set value as float or integer and try a 0 here to see error handling
+    w = item  # math_type item in list
+    my_answer = mathFunction(value_1, value_2, w)  # call function with variables
+    print(my_answer)  # return value of result in function
