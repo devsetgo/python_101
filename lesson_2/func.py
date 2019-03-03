@@ -18,7 +18,7 @@ def aLoop():
     return count
 
 # pass in a value below to aFunc, will fail if not an integer
-def aFunc_1(my_num: int):
+def aFunc_1(my_num):
 
     result = aFunc_2(my_num)
     print(result)
