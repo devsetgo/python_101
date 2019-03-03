@@ -43,6 +43,6 @@ language = "Python"
 
 if __name__ == "__main__":
     # aFunction()
-    # aLoop()
-    aFunc_1(my_num)
+    aLoop()
+    # aFunc_1(my_num)
     # anIf(language)

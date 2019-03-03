@@ -12,7 +12,7 @@ def write_sample():
             csvfile, delimiter=" ", quotechar="|", quoting=csv.QUOTE_MINIMAL
         )
 
-        for i in range(0, 10):
+        for item in range(0, 10):
             t = datetime.datetime.now()
             write_info = [t, count]
             file_writer.writerow(write_info)
@@ -31,7 +31,7 @@ def write_sample_append():
             csvfile, delimiter=" ", quotechar="|", quoting=csv.QUOTE_MINIMAL
         )
 
-        for i in range(0, 10):
+        for item in range(0, 10):
             t = datetime.datetime.now()
             write_info = [t, count]
 

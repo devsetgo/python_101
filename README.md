@@ -1,16 +1,27 @@
 # Python 101
 
 ## Install
--	Python
--	VS Code
+- Python
+- VS Code
     - install python plugin
     - set autosave
 
 
 ### Learning Resources
--	W3 Schools
--	Real Python
--	Python Reference Documents
+- W3 Schools
+- Real Python
+- Python Reference Documents
+- Recommended books and sites
+    - Beginner:
+        - [Sam's Teach Yourself Python in 24 Hours](https://amzn.to/2EHW56F)
+        - [Python Crash Course](https://amzn.to/2UhE4Bi)
+        - [Python Reference Documents](https://wiki.python.org/moin/BeginnersGuide)
+        - [W3 Schools](https://www.w3schools.com/python/)
+    - Next Steps:
+        - [Automate the Boring Stuff with Python](https://amzn.to/2NDwPBf)
+        - [Modern Python Standard Library Cookbook](https://amzn.to/2UhFYC6)
+        - [Python 3 Object-Oriented Programming](https://amzn.to/2Tb4yZ0)
+        - [The Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 
 ## Basic Python
@@ -26,22 +37,33 @@
 ### Week 2
 - Functions
     - For Loop
-    - Count
+        - Count
     - Append a dictionary
     - Pass variable to Function
     - Simple IF, ELIF, Else statement
 
 ### Week 3
 - Import statement
-- Read CSV
-- Write CSV
+- Read a CSV
+- Write to a CSV
 
 ### Week 4
-- What is an API
+- What is an API?
   - GET
     -POST, UPDATE, DELETE
 - JSON Data
-- Pip install requests
-- Fetch data from an api
-- Print value
+- Windows:
+    - pip install virtualenv
+        - virtualenv env
+        - env\scripts\activate
+- Linux:
+    - pip3 install virtualenv
+        - virtualenv env
+        - source env/bin/activate
+
+- Install Requirements
+    - pip/pip3 install -r requirements.txt
+
+- Using Python [Requests](http://docs.python-requests.org) to fetch data from an api
+- Print result JSON value
 - For loop over JSON
