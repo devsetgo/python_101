@@ -59,6 +59,7 @@
 - What is an API?
   - GET (Read)
     - POST (create), PUT (update), DELETE (delete)
+    - More detailed information [here](https://www.tutorialspoint.com/http/http_methods.htm)
 - JSON Data - JavaScript Object Notation
 - Windows:
     - pip install virtualenv
