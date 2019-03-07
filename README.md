@@ -18,7 +18,8 @@
         - [Sam's Teach Yourself Python in 24 Hours](https://amzn.to/2EHW56F)
         - [Python Crash Course](https://amzn.to/2UhE4Bi)
         - [Python Reference Documents](https://wiki.python.org/moin/BeginnersGuide)
-        - [W3 Schools](https://www.w3schools.com/python/)
+        - [W3 Schools](https://www.w3schools.com/python/)(
+        - [Full Stack Python](https://www.fullstackpython.com/table-of-contents.html))
     - Next Steps:
         - [Automate the Boring Stuff with Python](https://amzn.to/2NDwPBf)
         - [Modern Python Standard Library Cookbook](https://amzn.to/2UhFYC6)
@@ -56,9 +57,9 @@
 
 ### Week 4
 - What is an API?
-  - GET
-    -POST, UPDATE, DELETE
-- JSON Data
+  - GET (Read)
+    - POST (create), PUT (update), DELETE (delete)
+- JSON Data - JavaScript Object Notation
 - Windows:
     - pip install virtualenv
         - virtualenv env
