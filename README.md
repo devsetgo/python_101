@@ -57,9 +57,9 @@
 
 ### Week 4
 - What is an API?
-  - GET
-    -POST, UPDATE, DELETE
-- JSON Data
+  - GET (Read)
+    - POST (create), PUT (update), DELETE (delete)
+- JSON Data - JavaScript Object Notation
 - Windows:
     - pip install virtualenv
         - virtualenv env
