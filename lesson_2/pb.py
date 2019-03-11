@@ -10,9 +10,7 @@ def aLoop_Pb():
     t0 = time.time()
     count = 0
     # for each item in the range
-    for item in tqdm(
-        range(0, 10000000), desc="Count to 10 Million", unit=" a thing"):
-        # print(count)
+    for item in tqdm(range(0, 10000000), desc="Count to 10 Million", unit=" a thing"):
         count = count + 1
 
     t1 = time.time() - t0
@@ -23,8 +21,8 @@ def aLoop_print():
     count = 0
     # for each item in the range
     for item in range(0, 10000):
-        print(f'{count:,}')
         count = count + 1
+        print(f'{count:,}')
 
     t1 = time.time() - t0
     print(f'duration: {t1:.3f} seconds and counting to {count:,}')
