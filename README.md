@@ -32,6 +32,15 @@
 - [ ] Write Flask Example
 - [ ] Write Flask RESTPlus expample
 
+## Pre-requisites
+Installation of Python 3.6 or higher with 3.7 recommended
+- [Windows Install](https://www.python.org/downloads/windows/)
+  - Windows alternate of using [Window 10 store version](https://www.microsoft.com/en-us/p/python-37/9nj46sx7x90p?activetab=pivot:overviewtab). This is not tested, but should work.
+- Mac [OSX Install](https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
+  - Mac OSX comes with legacy Python 2.7, but you will need to install Python 3.6 or higher. I don't use a Mac
+- Linux - most distributions come with Python 3 pre-installed. Ubuntu 18.04 has Python 3.6 installed. Linux distributions can be tied to specific versions and not easily upgradeable.
+
+
 ## Basic Python
 ### Week 1
 - Hello World
