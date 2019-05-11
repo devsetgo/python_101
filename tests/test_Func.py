@@ -1,3 +1,6 @@
+import sys,os
+sys.path.append(os.path.join(os.path.dirname(__file__),os.pardir,"lessons"))
+
 from unittest import TestCase
 from lesson_2.func import aFunction, aLoop, aFunc_1, aFunc_2, anIf
 
