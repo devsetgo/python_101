@@ -1,5 +1,5 @@
 black==21.8b0
-pylint==2.10.2
+pylint==2.11.1
 requests==2.26.0
 black==21.8b0
 autopep8
