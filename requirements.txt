@@ -1,6 +1,6 @@
 black==22.1.0
 pylint==2.12.2
-requests==2.26.0
+requests==2.27.1
 black==22.1.0
 autopep8
 coverage
